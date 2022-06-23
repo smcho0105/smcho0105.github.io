@@ -298,6 +298,6 @@ function fishName()
   }
   if (fish[0].fish == 7)
   {
-    text('Mackerel', width/2, 100)
+    text('Anemonefish', width/2, 100)
   }
 }
